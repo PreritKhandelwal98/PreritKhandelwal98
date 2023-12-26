@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preritkhandelwal98&label=Profile%20views&color=0e75b6&style=flat" alt="preritkhandelwal98" /> </p>
 
-- 🌱 I’m currently learning **Collection Frameworks(Java), Data Structures, Java EE**
+- 🌱 I’m currently learning **Data Structures, Java EE, Asp.net, React, Servicenow**
 
-- 💬 Ask me about **Core Java, Problem Solving**
+- 💬 Ask me about **Core Java, Problem Solving,React**
 
 - 📫 How to reach me **prerit.web@gmail.com**
 
